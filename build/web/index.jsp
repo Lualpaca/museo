@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page hola a todos</title>
+        <title>JSP Page</title>
     </head>
     <body>
         <h1>Cargar archivos con Servlets</h1>
